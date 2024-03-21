@@ -1,0 +1,114 @@
+footer {
+    
+    width:100%;
+    /*height: 50px;
+    /*how to fill bottom section of footer*/
+    bottom:0px;
+    padding: 0;
+    margin: 0;
+    color: darkgreen;
+    text-align: center;
+    border-top: 2px solid black;
+    background-color : black;
+    
+     }
+
+
+#farm {
+    background-color:black;
+    margin: 1px auto;
+
+}
+body{
+    background-color:black;
+    margin: 0;
+    width:100%;
+}
+h1 {     
+    color: grey;
+    
+    margin-top:2.1%;
+    float:right;/*how to move text slightly left*/
+    margin-top: 3.5%;
+}
+main p{
+    color: white;
+}
+h2 {     
+    color: darkgreen;
+}
+header {
+    background-color : rgb(192, 228, 12);   
+    border-bottom: 3px solid white;
+}
+main {
+    height: 75%;
+    width: 98%;
+
+}
+
+
+.headerImage{
+    position: relative;
+    margin-top: 1.5%;
+    left: 1.5%;
+    width: 10%;
+    border:2px solid darkgreen;
+    border-radius:10px
+}
+#FarmImg{
+    width: 75%;
+    display: block;
+    margin-bottom:2%;
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid darkgreen;
+}
+.bottomImg{
+    width: 65%;
+    display: block;
+    margin-bottom:1%;
+    margin-left:auto;
+    margin-right:auto;
+    border:4px solid white;
+}
+.dragontree{
+    width:32%;
+    height:33%;
+}
+.horsechestnut{
+    width:32%;
+    height:33%;
+}
+.eaglewood{
+    width:32%;
+    height:33%;
+}
+nav{
+    width: 100%;
+    height: 75px;
+    background: darkgreen;
+}
+nav ul{
+    
+    text-align: center;
+    font-size: 1.2em;
+    position: relative;
+    top:35%
+    
+}
+nav ul li{
+    background-color: grey;
+    display: inline;
+    padding: 15px;
+    margin:5px;
+    border:2px solid rgb(192, 228, 12);
+    border-radius:10px
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+nav ul li:hover{
+    border-style: dashed;
+}
